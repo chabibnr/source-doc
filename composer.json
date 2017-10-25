@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpdocumentor/reflection-docblock": "^3.2",
+        "michelf/php-markdown": "^1.7"
+    }
+}
